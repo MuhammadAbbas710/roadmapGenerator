@@ -172,4 +172,4 @@ To update the app later: change the file on GitHub (**pencil icon → Commit cha
 
 ## License
 
-Free to use and modify for personal and commercial projects.# roadmapGenerator
+Free to use and modify for personal and commercial projects.
